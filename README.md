@@ -19,7 +19,7 @@ This is a Next.js web application built using Framer Motion for animations, Type
 2. [ ] **Install Dependencies**
    - [] Install required dependencies such as Framer Motion, TypeScript, Tailwind CSS, and any additional libraries for email functionality.
    - [x] Install React icons library for icons.
-   - []
+   - [x] Install Framer Motion.
 
 3. [ ] **Configure Tailwind CSS**
    - [] Set up Tailwind CSS configuration to customize styles according to project requirements.
